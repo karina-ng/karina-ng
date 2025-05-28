@@ -1,16 +1,26 @@
-## Hi there 👋
+# ✨ ¡Hola! Soy Karina
 
-<!--
-**karina-ng/karina-ng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy una profesional en transición al mundo de la tecnología, actualmente enfocada en **Quality Assurance Manual**.  
+Recientemente completé un **bootcamp de QA Engineering en TripleTen**, donde he desarrollado habilidades en:
 
-Here are some ideas to get you started:
+- 🧪 Pruebas funcionales manuales  
+- 📋 Diseño y ejecución de casos de prueba  
+- 🐛 Reporte y seguimiento de bugs con **Jira**  
+- 🔍 Pruebas de API usando **Postman**  
+- 🗄️ Consultas básicas en **SQL**
+- 🗄️ Scripts basicos para pruebas automatizadas utilizando **Python**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Mi formación previa en **Administración de Empresas** me permite tener una visión integral orientada a procesos, gestión y calidad.
+
+📚 Siempre estoy aprendiendo algo nuevo y explorando formas de mejorar la calidad del software.
+
+---
+
+### 👯 Colaboración
+
+👯 Me gustaría colaborar en proyectos relacionados con pruebas de software o control de calidad.  
+Estoy especialmente interesada en iniciativas donde pueda seguir aprendiendo y aplicar mis habilidades en QA manual.
+
+---
+
+💼 [Conéctate conmigo en LinkedIn](https://www.linkedin.com/in/karina-nuñez-qa)
