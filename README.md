@@ -1,6 +1,6 @@
 # ✨ ¡Hola! Soy Karina
 
-Soy una profesional en transición al mundo de la tecnología, actualmente enfocada en **Quality Assurance Manual**.  
+Soy una profesional en transición al mundo de la tecnología, actualmente enfocada en **QA Manual**.  
 Recientemente completé un **bootcamp de QA Engineering en TripleTen**, donde he desarrollado habilidades en:
 
 - 🧪 Pruebas funcionales manuales  
