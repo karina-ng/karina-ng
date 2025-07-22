@@ -1,3 +1,5 @@
+![Banner](https://raw.githubusercontent.com/karina-ng/karina-ng/2a9f1c66d00cf0c82c4770507e4a603a7da33b24/ChatGPT%20Image%2016%20jul%202025%2C%2012_14_24%20p.m..png)
+
 # ✨ ¡Hola! Soy Karina
 
 Soy una profesional en transición al mundo de la tecnología, actualmente enfocada en el  **Aseguramiento de Calidad de Software**.  
