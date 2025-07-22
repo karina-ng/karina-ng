@@ -1,4 +1,5 @@
-![Banner](https://raw.githubusercontent.com/karina-ng/karina-ng/2a9f1c66d00cf0c82c4770507e4a603a7da33b24/ChatGPT%20Image%2016%20jul%202025%2C%2012_14_24%20p.m..png)
+
+<img src="https://raw.githubusercontent.com/karina-ng/karina-ng/main/ChatGPT%20Image%2016%20jul%202025%2C%2012_14_24%20p.m..png" width="800"  height= "400"/>
 
 # ✨ ¡Hola! Soy Karina
 
